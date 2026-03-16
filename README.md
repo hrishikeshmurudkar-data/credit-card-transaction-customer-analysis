@@ -79,20 +79,26 @@ Contains demographic information such as:
 
 ## 📁 Project Structure
 
+```
 credit-card-transaction-customer-analysis
 │
 ├── Dashboard
 │   └── credit_card_dashboard.pbix
+│
 ├── Dataset
 │   ├── credit_card.csv
 │   └── customer.csv
+│
 ├── SQL
 │   └── credit_card_queries.sql
+│
 ├── Visuals
 │   ├── credit_card_banner.png
 │   ├── transaction_dashboard.png
 │   └── customer_dashboard.png
+│
 └── README.md
+```
 
 ---
 
