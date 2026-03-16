@@ -1,48 +1,96 @@
-# 💳 Credit Card Transaction & Customer Analysis
+💳 Credit Card Transaction & Customer Analysis
 
 <p align="center">
 <img src="Visuals/credit_card_banner.png" width="750">
-</p>
+</p>📊 Project Overview
 
-## 📊 Project Overview
+This project analyzes credit card transactions and customer data to uncover spending patterns, revenue trends, and customer behavior.
 
-This project analyzes credit card transactions and customer demographics to identify spending patterns and revenue trends.
+An interactive Power BI dashboard is built to visualize key metrics and support data-driven decision making.
 
-## 🎯 Business Problem
+---
 
-Financial institutions process large volumes of credit card transactions daily. Understanding customer behavior helps organizations improve financial strategies.
+🎯 Business Problem
 
-## 📂 Dataset
+Financial institutions process thousands of credit card transactions daily. Understanding spending patterns and customer behavior helps businesses identify high-value customers and improve financial strategies.
 
-The dataset includes:
+---
 
-• Credit card transaction data  
-• Customer demographic data  
+📂 Dataset
 
-## 🛠 Tools Used
+The dataset contains two primary tables.
 
-• Power BI  
-• SQL  
-• Excel  
-• DAX  
+Credit Card Transaction Data
 
-## 📈 Dashboard Preview
+- Transaction Amount
+- Transaction Category
+- Card Type
+- Transaction Date
 
-![Transaction Dashboard](Visuals/transaction_dashboard.png)
+Customer Data
 
-![Customer Dashboard](Visuals/customer_dashboard.png)
+- Age
+- Gender
+- Income Group
+- State
 
-## 💡 Key Insights
+---
 
-• Some credit card categories generate higher revenue  
-• Certain age groups perform more transactions  
-• Spending patterns vary by region
+🛠 Tools Used
 
-## 📁 Project Structure
+- Power BI
+- SQL
+- Excel
+- DAX
+
+---
+
+📊 Dashboard Preview
+
+Transaction Dashboard
+
+"Transaction Dashboard" (Visuals/transaction_dashboard.png)
+
+Customer Dashboard
+
+"Customer Dashboard" (Visuals/customer_dashboard.png)
+
+---
+
+💡 Key Insights
+
+- Certain credit card categories generate higher revenue
+- Customer spending behavior varies across age groups
+- Some regions contribute more to total transactions
+- Entertainment and bill payments are major spending categories
+
+---
+
+📁 Project Structure
 
 credit-card-transaction-customer-analysis
 
-Dashboard/  
-Dataset/  
-SQL/  
+Dashboard/
+Dataset/
+SQL/
 Visuals/
+README.md
+
+---
+
+💬 Feedback
+
+If you have any feedback or suggestions, feel free to connect with me.
+
+LinkedIn
+https://www.linkedin.com/
+
+---
+
+👨‍💻 Author
+
+Hrishikesh Murudkar
+Aspiring Data Analyst
+
+GitHub
+https://github.com/hrishikeshmurudkar-data
